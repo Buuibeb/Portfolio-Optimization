@@ -22,7 +22,6 @@ With local search metaheuristics and genetic algorithms we will search through t
 At the end we will compare different solutions and evaluate them. We should be able to tell which methods are better, which ones are faster or which ones keep getting stuck in local maximums.
 
 # References :
-https://github.com/naresh-dscience/Portfolio-Optimization-using-Genetic-Algorithm
 https://www.researchgate.net/publication/322047252_Portfolio_Optimization_with_Metaheuristics/fulltext/5a405d2baca272d294527b8b/Portfolio-Optimization-with-Metaheuristics.pdf
 https://ieeexplore.ieee.org/document/5609394
 https://mpra.ub.uni-muenchen.de/41783/
