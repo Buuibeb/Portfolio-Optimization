@@ -8,6 +8,9 @@ Heuristic optimization techniques provide a new way for considering more practic
 They provide a useful trade-off between required computational time and quality of solution. 
 Metaheuristics seem particularly suitable for practical portfolio optimization problems as these problems possess characteristics such as non-convex objective functions and search spaces.
 
+# Given Data
+Four years monthly Closing Stock values of HDFC, ITC, L&T, M&M, Sun Pharma and TCS.
+
 # Our approach 
 In our proposal, the portfolio should have 3-4 financial assets. 
 We want to divide the money as a percentage in the assets so that we have the greatest possible fitness value, which should try to maximise the value and minimise the risk. 
@@ -18,7 +21,7 @@ State space is a set of all possible variations of how money can be divided into
 With local search metaheuristics and genetic algorithms we will search through the state space and try to find the best solution. 
 At the end we will compare different solutions and evaluate them. We should be able to tell which methods are better, which ones are faster or which ones keep getting stuck in local maximums.
 
-# Sources :
+# References :
 https://github.com/naresh-dscience/Portfolio-Optimization-using-Genetic-Algorithm
 https://www.researchgate.net/publication/322047252_Portfolio_Optimization_with_Metaheuristics/fulltext/5a405d2baca272d294527b8b/Portfolio-Optimization-with-Metaheuristics.pdf
 https://ieeexplore.ieee.org/document/5609394
